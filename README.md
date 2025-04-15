@@ -8,7 +8,7 @@ The Boston Housing Dataset contains 506 rows and 14 attributes describing housin
 ## 🧠 Models Implemented
 
 | Model                    | Description                               |
-|-------------------------|-------------------------------------------|
+|--------------------------|-------------------------------------------|
 | Linear Regression        | Baseline model for understanding trends   |
 | Polynomial Regression    | Captures nonlinear relationships          |
 | Decision Tree Regression | Tree-based model with feature importance  |
@@ -38,14 +38,28 @@ The Boston Housing Dataset contains 506 rows and 14 attributes describing housin
 - Learning Curve
 - Cross-Validation Results
 
-## ⚙️ Requirements
-- scikit-learn
-- numpy
-- pandas
-- matplotlib
-- seaborn
-
-pip install -r requirements.txt
+## ⚙️ Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shahmi0519/Boston-House-Price-Prediction/tree/main
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   **requirements.txt**:
+   ```
+   pandas
+   numpy
+   matplotlib
+   seaborn
+   scikit-learn
+   ```
+2. Run the notebook:
+   ```bash
+   jupyter notebook notebooks/boston_house_prediction.ipynb
+   ```
+---
 
 ## 📸 Sample Visualization
 ![Actual vs Predicted Linear Regression](images/actual_vs_pred_linear_regression.png)
@@ -58,5 +72,11 @@ pip install -r requirements.txt
 ├── images/                # Graphs & charts
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project overview
+```
 
+## ✍️ Author
+- **📧 Mail**: shahmiahamed0519@gmail.com(shahmiahamed0519@gmail.com)
+- **🔗 LinkedIn**: Ahamed Shahmi(https://www.linkedin.com/in/ahamed-shahmi-abduljabbar/)
+- **💻 GitHub**: shahmi0519(https://github.com/shahmi0519)
 
+## 📝 License
