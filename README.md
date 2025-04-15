@@ -75,8 +75,7 @@ The Boston Housing Dataset contains 506 rows and 14 attributes describing housin
 ```
 
 ## ✍️ Author
-- **📧 Mail**: shahmiahamed0519@gmail.com(shahmiahamed0519@gmail.com)
-- **🔗 LinkedIn**: Ahamed Shahmi(https://www.linkedin.com/in/ahamed-shahmi-abduljabbar/)
-- **💻 GitHub**: shahmi0519(https://github.com/shahmi0519)
-
-## 📝 License
+**Ahamed Shahmi A.J**
+- **📧 Mail**: shahmiahamed0519@gmail.com
+- **🔗 LinkedIn**: Ahamed Shahmi (https://www.linkedin.com/in/ahamed-shahmi-abduljabbar/)
+- **💻 GitHub**: shahmi0519 (https://github.com/shahmi0519)
