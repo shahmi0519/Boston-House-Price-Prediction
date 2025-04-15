@@ -65,6 +65,7 @@ The Boston Housing Dataset contains 506 rows and 14 attributes describing housin
 ![Actual vs Predicted Linear Regression](images/actual_vs_pred_linear_regression.png)
 ![Feature Importance](images/feature_importance.png)
 
+---
 
 ## 📂 Project Structure
 ```bash
@@ -74,6 +75,7 @@ The Boston Housing Dataset contains 506 rows and 14 attributes describing housin
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project overview
 ```
+---
 
 ## ✍️ Author
 **Ahamed Shahmi A.J**
