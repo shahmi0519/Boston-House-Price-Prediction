@@ -41,7 +41,7 @@ The Boston Housing Dataset contains 506 rows and 14 attributes describing housin
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shahmi0519/Boston-House-Price-Prediction/tree/main
+   git clone https://github.com/shahmi0519/Boston-House-Price-Prediction.git
    ```
 2. Install dependencies:
    ```bash
@@ -55,7 +55,7 @@ The Boston Housing Dataset contains 506 rows and 14 attributes describing housin
    seaborn
    scikit-learn
    ```
-2. Run the notebook:
+3. Run the notebook:
    ```bash
    jupyter notebook notebooks/boston_house_prediction.ipynb
    ```
@@ -64,6 +64,7 @@ The Boston Housing Dataset contains 506 rows and 14 attributes describing housin
 ## 📸 Sample Visualization
 ![Actual vs Predicted Linear Regression](images/actual_vs_pred_linear_regression.png)
 ![Feature Importance](images/feature_importance.png)
+
 
 ## 📂 Project Structure
 ```bash
@@ -79,3 +80,7 @@ The Boston Housing Dataset contains 506 rows and 14 attributes describing housin
 - **📧 Mail**: shahmiahamed0519@gmail.com
 - **🔗 LinkedIn**: Ahamed Shahmi (https://www.linkedin.com/in/ahamed-shahmi-abduljabbar/)
 - **💻 GitHub**: shahmi0519 (https://github.com/shahmi0519)
+
+
+## 📝 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
